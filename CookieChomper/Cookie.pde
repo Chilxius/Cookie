@@ -11,7 +11,7 @@ class Cookie
   {
     size = 75;
     xPos = random(size/2,width-size/2);
-    yPos = height - size/2;
+    yPos = height + size/2;
     xSpeed = random(-5,5);
     ySpeed = random(-5,5);
     
